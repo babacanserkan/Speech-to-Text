@@ -1,2 +1,2 @@
-TR- Ses dosyalarını metne çeviren kod blogu
-EN- A code blog that converts audio files to text
+Ses dosyalarını metne çeviren kod blogu
+A code blog that converts audio files to text
